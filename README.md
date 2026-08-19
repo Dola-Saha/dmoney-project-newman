@@ -57,3 +57,5 @@ report.js                         Newman test runner configuration
 Reports/report.html               Generated HTML test report
 package.json                      Project metadata and scripts
 ```
+## Report
+<img width="629" height="631" alt="image" src="https://github.com/user-attachments/assets/70806193-6f83-40d5-a488-004ce16819ab" />
